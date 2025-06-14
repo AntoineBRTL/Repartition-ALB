@@ -53,9 +53,9 @@ $nb_encadrants = 0;
 
 if (($handle = fopen($chemin, "r")) !== false) 
 {
-    $headers = fgetcsv($handle, 0, ";");
+    $headers = fgetcsv($handle, 0, ";",'"',"\\");
 
-    while (($data = fgetcsv($handle, 0, ";")) !== false) {
+    while (($data = fgetcsv($handle, 0, ";",'"',"\\")) !== false) {
         
         $niveau_index = array_search("Niveau", $headers);
         if (strtolower(trim($data[$niveau_index])) == "encadrant") {
