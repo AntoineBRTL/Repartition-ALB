@@ -230,7 +230,7 @@ $fichier_final = "sorties/" . $jour . " " . $mois . " " . $annee . ".csv";
 
 $handle = fopen($fichier_final, 'w');
 
-fputcsv($handle, ["N° License", "Nom", "Prénom", "Type", "Niveau", "Groupe"], ";", '"', "\\");
+fputcsv($handle, ["N° Licence", "Nom", "Prénom", "Type", "Niveau", "Groupe"], ";", '"', "\\");
 
 foreach ($inscrits as $personne) {
     $cle = strtolower(trim($personne['nom'])) . "_" . strtolower(trim($personne['prenom']));
