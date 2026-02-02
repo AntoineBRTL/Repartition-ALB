@@ -17,7 +17,7 @@ Dans le cadre du projet de fin d'année, nous avons eu l'opportunité de réalis
 
 Ce projet s'est déroulé en plusieurs étapes : <br>
 - Première prise de contact<br>
-- Conception du [cahier des charges](BARTOLI, MALGOUYRES, PRETO, TURCHI - Cahier des charges.pdf)<br>
+- Conception du [cahier des charges](CahierDesCharges.pdf)<br>
 - Validation du cahier des charges<br>
 - Développement du projet<br>
 - Rendu final : code + rapport<br>
