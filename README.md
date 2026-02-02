@@ -17,7 +17,7 @@ Dans le cadre du projet de fin d'année, nous avons eu l'opportunité de réalis
 
 Ce projet s'est déroulé en plusieurs étapes : <br>
 - Première prise de contact<br>
-- Conception du [cahier des charges](https://ucergyfr.sharepoint.com/sites/ProjetIC22/Documents%20partages/General/Réunion%20initiale%20+%20cahier%20des%20charges/BARTOLI,%20MALGOUYRES,%20PRETO,%20TURCHI%20-%20Cahier%20des%20charges.pdf?CT=1749595510820&OR=ItemsView&wdOrigin=TEAMSFILE.FILEBROWSER.DOCUMENTLIBRARY)<br>
+- Conception du [cahier des charges](BARTOLI, MALGOUYRES, PRETO, TURCHI - Cahier des charges.pdf)<br>
 - Validation du cahier des charges<br>
 - Développement du projet<br>
 - Rendu final : code + rapport<br>
